@@ -19,11 +19,11 @@ firmware is required.
 
 **PLEASE BACK UP YOUR FLASH DRIVE CONTENTS BEFORE USE!**
 
-Copy the **AUTOBOOT.HFE** and **HXCSDFE.CFG** files to the root folder of the USB drive.
-Use the cursor keys and Enter (or the Kempston joystick) to navigate.
-Pressing Enter/Fire on a disk image file mounts it to slot 1 and resets the machine to TR-DOS.
-
-To return to the file selector, select slot 0 manually and reset the machine.
+* Download the [latest release](https://github.com/alexanderk23/zx-hxc-file-selector/releases/latest).
+* Copy the **AUTOBOOT.HFE** and **HXCSDFE.CFG** files from the ZIP archive to the root folder of the USB pen drive.
+* Use the cursor keys and Enter (or the Kempston joystick) to navigate.
+* Pressing Enter/Fire on a disk image file mounts it to slot 1 and resets the machine to TR-DOS.
+* To return to the file selector, select slot 0 manually and reset the machine.
 
 ## Limitations
 
