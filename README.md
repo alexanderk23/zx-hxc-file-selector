@@ -3,6 +3,8 @@
 ![Downloads Badge][downloads-badge]
 ![Version Badge][version-badge]
 
+![image](https://github.com/alexanderk23/zx-hxc-file-selector/assets/1713462/64bc45c5-b603-4397-b48e-a0829393d8f9)
+
 **The ZX Spectrum HxC file selector** is designed to conveniently select and mount
 disk image files on a **Gotek** flash drive directly from the ZX Spectrum.
 
